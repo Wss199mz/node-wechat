@@ -1,0 +1,9 @@
+{"statusCode":200,"body":
+{"access_token":"C-VPVH1LfwK0ceW43csZehEF-lX1Pwbp2fk2d-EYhjkESo5hDAhzGgRMiIMDo2jlRrTNXzt0etnwU0LSh0BSadP8Q2zAXQSGe8II55a9WMPt1Z47AHmStmUKehnkbpaBDFLcAHAXZF","expires_in":7200},
+"headers":{"connection":"close","content-type":"application/json; encoding=utf-8","date":"Wed, 30 Aug 2017 03:37:55 GMT","content-length":"175"},
+"request":{"uri":{"protocol":"https:","slashes":true,"auth":null,"host":"api.weixin.qq.com","port":443,"hostname":"api.weixin.qq.com","hash":null,
+"search":"?grant_type=client_credential&appid=wx90210886d1a1d5db&secret=87c1cccd55cb196d990a1480f942d11e",
+"query":"grant_type=client_credential&appid=wx90210886d1a1d5db&secret=87c1cccd55cb196d990a1480f942d11e",
+"pathname":"/cgi-bin/token","path":"/cgi-bin/token?grant_type=client_credential&appid=wx90210886d1a1d5db&secret=87c1cccd55cb196d990a1480f942d11e",
+"href":"https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx90210886d1a1d5db&secret=87c1cccd55cb196d990a1480f942d11e"},
+"method":"GET","headers":{"accept":"application/json"}}}
