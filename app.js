@@ -17,7 +17,8 @@ var config = {
     }
 };
 var app = new Koa();
-var a=null,b=null,c=null;
-app.use(wechat(config.wechat));
+var that = this;
+app.use(wechat(config.wechat,that));
 app.listen(1234);
+
 console.log("listen:1234");
